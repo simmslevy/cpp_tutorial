@@ -1,0 +1,5 @@
+﻿  Lesson 8_3 Problem 2.cpp
+c:\users\j-kriegz\desktop\code\cpp_tutorial\lesson 8_3 problem 2\lesson 8_3 problem 2\lesson 8_3 problem 2.cpp(34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\j-kriegz\desktop\code\cpp_tutorial\lesson 8_3 problem 2\lesson 8_3 problem 2\lesson 8_3 problem 2.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\j-kriegz\desktop\code\cpp_tutorial\lesson 8_3 problem 2\lesson 8_3 problem 2\lesson 8_3 problem 2.cpp(45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lesson 8_3 Problem 2.vcxproj -> C:\Users\J-Kriegz\Desktop\Code\cpp_tutorial\Lesson 8_3 Problem 2\Debug\Lesson 8_3 Problem 2.exe

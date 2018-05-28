@@ -1,0 +1,4 @@
+﻿  Chapter 5 Comprehensive 1.cpp
+c:\users\j-kriegz\desktop\code\cpp_tutorial\chapter 5 comprehensive 1\chapter 5 comprehensive 1\chapter 5 comprehensive 1.cpp(43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\j-kriegz\desktop\code\cpp_tutorial\chapter 5 comprehensive 1\chapter 5 comprehensive 1\chapter 5 comprehensive 1.cpp(50): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+  Chapter 5 Comprehensive 1.vcxproj -> C:\Users\J-Kriegz\Desktop\Code\cpp_tutorial\Chapter 5 Comprehensive 1\Debug\Chapter 5 Comprehensive 1.exe
